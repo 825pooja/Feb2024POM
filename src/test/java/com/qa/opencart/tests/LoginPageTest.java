@@ -23,7 +23,7 @@ import io.qameta.allure.Story;
 //@Listeners() - only report will work, retry is not working here
 public class LoginPageTest extends BaseTest {
 
-	@Description("checking login page title test ----")
+	@Description("checking login page title test verification----")
 	@Severity(SeverityLevel.MINOR)
 	@Owner("Naveen Automation Labs")
 	@Issue("Login-1234")
